@@ -29,7 +29,7 @@
     background: #000;
 }
 #one{
-    background: url('./one.jpg');
+    background: url('./onebg.jpg');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
